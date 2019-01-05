@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticket_number: MyString
+  expiry_date: 2019-01-05 23:20:24
+
+two:
+  ticket_number: MyString
+  expiry_date: 2019-01-05 23:20:24
